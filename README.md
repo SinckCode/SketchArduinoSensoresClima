@@ -52,7 +52,7 @@ Este proyecto está pensado para entornos reales como **aulas, laboratorios y es
 ## 🔧 Conexiones de hardware
 
 ### I2C
-```txt
+
 SDA → GPIO 21
 SCL → GPIO 22
 
